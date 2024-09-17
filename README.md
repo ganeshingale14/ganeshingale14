@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ganeshingale14
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python,generative AI,ML,DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ganeshingale1432@gmail.com 
+- 🌱 I’m currently learning ...python,generative AI,Model Training.
+- 📫 How to reach me ...shouryashinde143@gmail.com 
 - 😄 Pronouns: ...Ganesh
 - ⚡ Fun fact: ...chilly
 
